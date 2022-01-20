@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="TextProvincia">45sp</dimen>
+    <dimen name="TextMunicipi">30sp</dimen>
+
+</resources>

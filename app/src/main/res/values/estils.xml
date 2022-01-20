@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ProvinciaStyle">
+        <item name="android:textSize">@dimen/TextProvincia</item>
+        <item name="android:textColor">@color/textProvincia</item>
+        <item name="android:backgroundTint">@color/fonsProvincia</item>
+        <item name="android:backgroundTintMode">add</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="MunicipiStyle">
+        <item name="android:textSize">@dimen/TextMunicipi</item>
+        <item name="android:textColor">@color/textMunicipi</item>
+        <item name="android:backgroundTint">@color/fonsMunicipi</item>
+        <item name="android:backgroundTintMode">add</item>
+        <item name="android:gravity">center</item>
+
+    </style>
+</resources>

@@ -1,0 +1,994 @@
+01;Àlaba;Vitòria;01059
+02;Albacete;Albacete;02003
+03;Alacant;Alacant;03014
+04;Almeria;Almeria;04013
+05;Àvila;Àvila;05019
+06;Badajoz;Badajoz;06015
+07;Balears;Palma de Mallorca;07040
+08;Barcelona;Abrera;08001
+08;Barcelona;Aguilar de Segarra;08002
+08;Barcelona;Aiguafreda;08014
+08;Barcelona;Alella;08003
+08;Barcelona;Alpens;08004
+08;Barcelona;Arenys de Mar;08006
+08;Barcelona;Arenys de Munt;08007
+08;Barcelona;Argençola;08008
+08;Barcelona;Argentona;08009
+08;Barcelona;Artés;08010
+08;Barcelona;Avià;08011
+08;Barcelona;Avinyò;08012
+08;Barcelona;Avinyonet del Penedès;08013
+08;Barcelona;Badalona;08015
+08;Barcelona;Badia del Vallès;08904
+08;Barcelona;Bagà;08016
+08;Barcelona;Balenyà;08017
+08;Barcelona;Balsareny;08018
+08;Barcelona;Barberà del Vallès;08252
+08;Barcelona;Barcelona;08019
+08;Barcelona;Begues;08020
+08;Barcelona;Bellprat;08021
+08;Barcelona;Berga;08022
+08;Barcelona;Bigues i Riells;08023
+08;Barcelona;Borredà;08024
+08;Barcelona;Cabrera de Mar;08029
+08;Barcelona;Cabrera d'Igualada;08028
+08;Barcelona;Cabrils;08030
+08;Barcelona;Calaf;08031
+08;Barcelona;Calders;08034
+08;Barcelona;Caldes de Montbui;08033
+08;Barcelona;Caldes d'Estrac;08032
+08;Barcelona;Calella;08035
+08;Barcelona;Calldetenes;08037
+08;Barcelona;Callús;08038
+08;Barcelona;Calonge de Segarra;08036
+08;Barcelona;Campins;08039
+08;Barcelona;Canet de Mar;08040
+08;Barcelona;Canovelles;08041
+08;Barcelona;Cànoves i Samalús;08042
+08;Barcelona;Canyelles;08043
+08;Barcelona;Capellades;08044
+08;Barcelona;Capolat;08045
+08;Barcelona;Cardedeu;08046
+08;Barcelona;Cardona;08047
+08;Barcelona;Carme;08048
+08;Barcelona;Casserres;08049
+08;Barcelona;Castell de l'Areny;08057
+08;Barcelona;Castellar de N'Hug;08052
+08;Barcelona;Castellar del Riu;08050
+08;Barcelona;Castellar del Vallès;08051
+08;Barcelona;Castellbell i el Vilar;08053
+08;Barcelona;Castellbisbal;08054
+08;Barcelona;Castellcir;08055
+08;Barcelona;Castelldefels;08056
+08;Barcelona;Castellet i la Gornal;08058
+08;Barcelona;Castellfollit de Riubregós;08060
+08;Barcelona;Castellfollit del Boix;08059
+08;Barcelona;Castellgalí;08061
+08;Barcelona;Castellnou de Bages;08062
+08;Barcelona;Castellolí;08063
+08;Barcelona;Castellterçol;08064
+08;Barcelona;Castellví de la Marca;08065
+08;Barcelona;Castellví de Rosanes;08066
+08;Barcelona;Centelles;08067
+08;Barcelona;Cercs;08268
+08;Barcelona;Cerdanyola del Vallès;08266
+08;Barcelona;Cervelló;08068
+08;Barcelona;Collbató;08069
+08;Barcelona;Collsuspina;08070
+08;Barcelona;Copons;08071
+08;Barcelona;Corbera de Llobregat;08072
+08;Barcelona;Cornellà de Llobregat;08073
+08;Barcelona;Cubelles;08074
+08;Barcelona;Dosrius;08075
+08;Barcelona;El Bruc;08025
+08;Barcelona;El Brull;08026
+08;Barcelona;El Masnou;08118
+08;Barcelona;El Papiol;08158
+08;Barcelona;El Pla del Penedès;08164
+08;Barcelona;El Pont de Vilomara i Rocafort;08182
+08;Barcelona;El Prat de Llobregat;08169
+08;Barcelona;Els Hostalets de Pierola;08162
+08;Barcelona;Els Prats de Rei;08170
+08;Barcelona;Esparreguera;08076
+08;Barcelona;Esplugues de Llobregat;08077
+08;Barcelona;Figaró-Montmany;08134
+08;Barcelona;Fígols;08080
+08;Barcelona;Fogars de la Selva;08082
+08;Barcelona;Fogars de Montclús;08081
+08;Barcelona;Folgueroles;08083
+08;Barcelona;Fonollosa;08084
+08;Barcelona;Font-rubí;08085
+08;Barcelona;Gaià;08090
+08;Barcelona;Gallifa;08087
+08;Barcelona;Gavà;08089
+08;Barcelona;Gelida;08091
+08;Barcelona;Gironella;08092
+08;Barcelona;Gisclareny;08093
+08;Barcelona;Granera;08095
+08;Barcelona;Granollers;08096
+08;Barcelona;Gualba;08097
+08;Barcelona;Guardiola de Berguedà;08099
+08;Barcelona;Gurb;08100
+08;Barcelona;Igualada;08102
+08;Barcelona;Jorba;08103
+08;Barcelona;La Garriga;08088
+08;Barcelona;La Granada;08094
+08;Barcelona;La Llacuna;08104
+08;Barcelona;La Llagosta;08105
+08;Barcelona;La Nou de Bereguedà;08142
+08;Barcelona;La Pobla de Claramunt;08165
+08;Barcelona;La Pobla de Lillet;08166
+08;Barcelona;La Quar;08177
+08;Barcelona;La Roca del Vallès;08181
+08;Barcelona;La Torre de Claramunt;08286
+08;Barcelona;L'Ametlla del Vallès;08005
+08;Barcelona;Les Cabanyes;08027
+08;Barcelona;Les Franqueses del Vallès;08086
+08;Barcelona;Les Masies de Roda;08116
+08;Barcelona;Les Masies de Voltregà;08117
+08;Barcelona;L'Espunyola;08078
+08;Barcelona;L'Estany;08079
+08;Barcelona;L'Hospitalet de Llobregat;08101
+08;Barcelona;Lliça d'Amunt;08107
+08;Barcelona;Lliça de Vall;08108
+08;Barcelona;Llinars del Valles;08106
+08;Barcelona;Lluçà;08109
+08;Barcelona;Malgrat de Mar;08110
+08;Barcelona;Malla;08111
+08;Barcelona;Manlleu;08112
+08;Barcelona;Manresa;08113
+08;Barcelona;Marganell;08242
+08;Barcelona;Martorell;08114
+08;Barcelona;Martorelles;08115
+08;Barcelona;Masquefa;08119
+08;Barcelona;Matadepera;08120
+08;Barcelona;Mataró;08121
+08;Barcelona;Mediona;08122
+08;Barcelona;Moià;08138
+08;Barcelona;Molins de Rei;08123
+08;Barcelona;Mollet del Vallès;08124
+08;Barcelona;Monistrol de Calders;08128
+08;Barcelona;Monistrol de Montserrat;08127
+08;Barcelona;Montcada i Reixac;08125
+08;Barcelona;Montclar;08130
+08;Barcelona;Montesquiu;08131
+08;Barcelona;Montgat;08126
+08;Barcelona;Montmajor;08132
+08;Barcelona;Montmaneu;08133
+08;Barcelona;Montmeló;08135
+08;Barcelona;Montornès del Vallès;08136
+08;Barcelona;Montseny;08137
+08;Barcelona;Muntanyola;08129
+08;Barcelona;Mura;08139
+08;Barcelona;Navarcles;08140
+08;Barcelona;Navas;08141
+08;Barcelona;Òdena;08143
+08;Barcelona;Olèrdola;08145
+08;Barcelona;Olesa de Bonesvalls;08146
+08;Barcelona;Olesa de Montserrat;08147
+08;Barcelona;Olivella;08148
+08;Barcelona;Olost;08149
+08;Barcelona;Olvan;08144
+08;Barcelona;Orís;08150
+08;Barcelona;Oristà;08151
+08;Barcelona;Orpí;08152
+08;Barcelona;Òrrius;08153
+08;Barcelona;Pacs del Penedès;08154
+08;Barcelona;Palafolls;08155
+08;Barcelona;Palau-solità i Plegamans;08156
+08;Barcelona;Pallejà;08157
+08;Barcelona;Palma de Cervelló, La;08905
+08;Barcelona;Parets del Vallès;08159
+08;Barcelona;Perafita;08160
+08;Barcelona;Piera;08161
+08;Barcelona;Pineda de Mar;08163
+08;Barcelona;Polinyà;08167
+08;Barcelona;Pontons;08168
+08;Barcelona;Prats de Lluçanès;08171
+08;Barcelona;Premià de Dalt;08230
+08;Barcelona;Premià de Mar;08172
+08;Barcelona;Puigdàlber;08174
+08;Barcelona;Puig-Reig;08175
+08;Barcelona;Pujalt;08176
+08;Barcelona;Rajadell;08178
+08;Barcelona;Rellinars;08179
+08;Barcelona;Ripollet;08180
+08;Barcelona;Roda de Ter;08183
+08;Barcelona;Rubí;08184
+08;Barcelona;Rubió;08185
+08;Barcelona;Rupit i Pruit;08901
+08;Barcelona;Sabadell;08187
+08;Barcelona;Sagàs;08188
+08;Barcelona;Saldes;08190
+08;Barcelona;Sallent;08191
+08;Barcelona;Sant Adrià de Besòs;08194
+08;Barcelona;Sant Agusti de Lluçanes;08195
+08;Barcelona;Sant Andreu de la Barca;08196
+08;Barcelona;Sant Andreu de Llavaneres;08197
+08;Barcelona;Sant Antoni de Vilamajor;08198
+08;Barcelona;Sant Bartomeu del Grau;08199
+08;Barcelona;Sant Boi de Llobregat;08200
+08;Barcelona;Sant Boi de Lluçanes;08201
+08;Barcelona;Sant Cebrià de Vallalta;08203
+08;Barcelona;Sant Celoni;08202
+08;Barcelona;Sant Climent de Llobregat;08204
+08;Barcelona;Sant Cugat de Sesgarrigues;08206
+08;Barcelona;Sant Cugat del Vallès;08205
+08;Barcelona;Sant Esteve de Palautordera;08207
+08;Barcelona;Sant Esteve Sesrovires;08208
+08;Barcelona;Sant Feliu de Codines;08210
+08;Barcelona;Sant Feliu de Llobregat;08211
+08;Barcelona;Sant Feliu Sasserra;08212
+08;Barcelona;Sant Fost de Campsentelles;08209
+08;Barcelona;Sant Fruitós de Bages;08213
+08;Barcelona;Sant Hipòlit de Voltregà;08215
+08;Barcelona;Sant Iscle de Vallalta;08193
+08;Barcelona;Sant Jaume de Frontanyà;08216
+08;Barcelona;Sant Joan de Vilatorrada;08218
+08;Barcelona;Sant Joan Despí;08217
+08;Barcelona;Sant Julià de Cerdanyola;08903
+08;Barcelona;Sant Julià de Vilatorta;08220
+08;Barcelona;Sant Just Desvern;08221
+08;Barcelona;Sant Llorenç d'Hortons;08222
+08;Barcelona;Sant Llorenç Savall;08223
+08;Barcelona;Sant Martí d'Albars;08225
+08;Barcelona;Sant Martí de Centelles;08224
+08;Barcelona;Sant Martí de Tous;08226
+08;Barcelona;Sant Martí Sarroca;08227
+08;Barcelona;Sant Martí Sesgueioles;08228
+08;Barcelona;Sant Mateu de Bages;08229
+08;Barcelona;Sant Pere de Ribes;08231
+08;Barcelona;Sant Pere de Riudebitlles;08232
+08;Barcelona;Sant Pere de Torelló;08233
+08;Barcelona;Sant Pere de Vilamajor;08234
+08;Barcelona;Sant Pere Sallavinera;08189
+08;Barcelona;Sant Pol de Mar;08235
+08;Barcelona;Sant Quintí de Mediona;08236
+08;Barcelona;Sant Quirze de Besora;08237
+08;Barcelona;Sant Quirze del Vallès;08238
+08;Barcelona;Sant Quirze Safaja;08239
+08;Barcelona;Sant Sadurní d'Anoia;08240
+08;Barcelona;Sant Sadurní d'Osormort;08241
+08;Barcelona;Sant Salvador de Guardiola;08098
+08;Barcelona;Sant Vicenç de Castellet;08262
+08;Barcelona;Sant Vicenç de Montalt;08264
+08;Barcelona;Sant Vicenç de Torello;08265
+08;Barcelona;Sant Vicenç dels Horts;08263
+08;Barcelona;Santa Cecília de Voltregà;08243
+08;Barcelona;Santa Coloma de Cervelló;08244
+08;Barcelona;Santa Coloma de Gramenet;08245
+08;Barcelona;Santa Eugènia de Berga;08246
+08;Barcelona;Santa Eulàlia de Riuprimer;08247
+08;Barcelona;Santa Eulàlia de Roncana;08248
+08;Barcelona;Santa Fe del Penedès;08249
+08;Barcelona;Santa Margarida de Montbui;08250
+08;Barcelona;Santa Margarida i els Monjos;08251
+08;Barcelona;Santa Maria de Besora;08253
+08;Barcelona;Santa Maria de Corcó;08254
+08;Barcelona;Santa Maria de Martorelles;08256
+08;Barcelona;Santa Maria de Merlès;08255
+08;Barcelona;Santa Maria de Miralles;08257
+08;Barcelona;Santa Maria de Palautordera;08259
+08;Barcelona;Santa Maria d'Oló;08258
+08;Barcelona;Santa Perpètua de Mogoda;08260
+08;Barcelona;Santa Susanna;08261
+08;Barcelona;Santpedor;08192
+08;Barcelona;Sentmenat;08267
+08;Barcelona;Seva;08269
+08;Barcelona;Sitges;08270
+08;Barcelona;Sobremunt;08271
+08;Barcelona;Sora;08272
+08;Barcelona;Subirats;08273
+08;Barcelona;Súria;08274
+08;Barcelona;Tagamanent;08276
+08;Barcelona;Talamanca;08277
+08;Barcelona;Taradell;08278
+08;Barcelona;Tavèrnoles;08275
+08;Barcelona;Tavertet;08280
+08;Barcelona;Teià;08281
+08;Barcelona;Terrassa;08279
+08;Barcelona;Tiana;08282
+08;Barcelona;Tona;08283
+08;Barcelona;Tordera;08284
+08;Barcelona;Torelló;08285
+08;Barcelona;Torrelavit;08287
+08;Barcelona;Torrelles de Foix;08288
+08;Barcelona;Torrelles de Llobregat;08289
+08;Barcelona;Ullastrell;08290
+08;Barcelona;Vacarisses;08291
+08;Barcelona;Vallbona d'Anoia;08292
+08;Barcelona;Vallcebre;08293
+08;Barcelona;Vallgorguina;08294
+08;Barcelona;Vallirana;08295
+08;Barcelona;Vallromanes;08296
+08;Barcelona;Veciana;08297
+08;Barcelona;Vic;08298
+08;Barcelona;Vilada;08299
+08;Barcelona;Viladecans;08301
+08;Barcelona;Viladecavalls;08300
+08;Barcelona;Vilafranca del Penedès;08305
+08;Barcelona;Vilalba Sasserra;08306
+08;Barcelona;Vilanova de Sau;08303
+08;Barcelona;Vilanova del Camí;08302
+08;Barcelona;Vilanova del Vallès;08902
+08;Barcelona;Vilanova i la Geltrú;08307
+08;Barcelona;Vilassar de Dalt;08214
+08;Barcelona;Vilassar de Mar;08219
+08;Barcelona;Vilobi del Penedès;08304
+08;Barcelona;Viver i Serrateix;08308
+09;Burgos;Burgos;09059
+10;Càceres;Càceres;10037
+11;Cadis;Càdis;11012
+12;Castelló;Castelló de la Plana;12040
+13;Ciudad Real;Ciudad Real;13034
+14;Còrdova;Còrdova;14021
+15;La Corunya;Corunya, La;15030
+16;Conca;Conca;16078
+17;Girona;Agullana;17001
+17;Girona;Aiguaviva;17002
+17;Girona;Albanyà;17003
+17;Girona;Albons;17004
+17;Girona;Alp;17006
+17;Girona;Amer;17007
+17;Girona;Anglès;17008
+17;Girona;Arbúcies;17009
+17;Girona;Argelaguer;17010
+17;Girona;Avinyonet de Puigventós;17012
+17;Girona;Banyoles;17015
+17;Girona;Bàscara;17016
+17;Girona;Begur;17013
+17;Girona;Bellcaire d'Empordà;17018
+17;Girona;Besalú;17019
+17;Girona;Bescanó;17020
+17;Girona;Beuda;17021
+17;Girona;Bisbal d'Empordà;17022
+17;Girona;Biure;17234
+17;Girona;Blanes;17023
+17;Girona;Boadella d'Empordà;17029
+17;Girona;Bolvir;17024
+17;Girona;Bordils;17025
+17;Girona;Borrassà;17026
+17;Girona;Breda;17027
+17;Girona;Brunyola;17028
+17;Girona;Cabanelles;17031
+17;Girona;Cabanes;17030
+17;Girona;Cadaqués;17032
+17;Girona;Caldes de Malavella;17033
+17;Girona;Calonge;17034
+17;Girona;Camós;17035
+17;Girona;Campdevànol;17036
+17;Girona;Campelles;17037
+17;Girona;Campllong;17038
+17;Girona;Camprodon;17039
+17;Girona;Canet d'Adri;17040
+17;Girona;Cantallops;17041
+17;Girona;Capmany;17042
+17;Girona;Cassà de la Selva;17044
+17;Girona;Castellfollit de la Roca;17046
+17;Girona;Castelló d'Empúries;17047
+17;Girona;Castell-Platja d'Aro;17048
+17;Girona;Celrà;17049
+17;Girona;Cervià de Ter;17050
+17;Girona;Cistella;17051
+17;Girona;Colera;17054
+17;Girona;Colomers;17055
+17;Girona;Corçà;17057
+17;Girona;Cornellà del Terri;17056
+17;Girona;Crespià;17058
+17;Girona;Cruïlles-Monells i Sant Sadurni;17901
+17;Girona;Darnius;17060
+17;Girona;Das;17061
+17;Girona;El Far d'Empordà;17005
+17;Girona;El Port de la Selva;17140
+17;Girona;Espinelves;17063
+17;Girona;Espolla;17064
+17;Girona;Esponellà;17065
+17;Girona;Figueres;17066
+17;Girona;Flaçà;17067
+17;Girona;Foixa;17068
+17;Girona;Fontanals de Cerdanya;17069
+17;Girona;Fontanilles;17070
+17;Girona;Fontcoberta;17071
+17;Girona;Forallac;17902
+17;Girona;Fornells de la Selva;17073
+17;Girona;Fortia;17074
+17;Girona;Garrigàs;17075
+17;Girona;Garrigoles;17076
+17;Girona;Garriguella;17077
+17;Girona;Ger;17078
+17;Girona;Girona;17079
+17;Girona;Gombrèn;17080
+17;Girona;Gualta;17081
+17;Girona;Guils de Cerdanya;17082
+17;Girona;Hostalric;17083
+17;Girona;Isòvol;17084
+17;Girona;Jafre;17085
+17;Girona;Juià;17087
+17;Girona;La Cellera de Ter;17189
+17;Girona;La Jonquera;17086
+17;Girona;La Pera;17130
+17;Girona;La Selva de Mar;17188
+17;Girona;La Tallada d'Empordà;17195
+17;Girona;La Vajol;17014
+17;Girona;La Vall de Bianya;17208
+17;Girona;La Vall d'en Bas;17207
+17;Girona;L'Armentera;17011
+17;Girona;Les Llosses;17096
+17;Girona;Les Planes d'Hostoles;17133
+17;Girona;Les Preses;17139
+17;Girona;L'Escala;17062
+17;Girona;Lladó;17088
+17;Girona;Llagostera;17089
+17;Girona;Llambilles;17090
+17;Girona;Llanars;17091
+17;Girona;Llançà;17092
+17;Girona;Llers;17093
+17;Girona;Llívia;17094
+17;Girona;Lloret de Mar;17095
+17;Girona;Maçanet de Cabrenys;17102
+17;Girona;Maçanet de la Selva;17103
+17;Girona;Madremanya;17097
+17;Girona;Maià de Montcal;17098
+17;Girona;Masarac;17100
+17;Girona;Massanes;17101
+17;Girona;Meranges;17099
+17;Girona;Mieres;17105
+17;Girona;Mollet de Perelada;17106
+17;Girona;Molló;17107
+17;Girona;Montagut i Oix;17109
+17;Girona;Mont-ras;17110
+17;Girona;Navata;17111
+17;Girona;Ogassa;17112
+17;Girona;Olot;17114
+17;Girona;Ordis;17115
+17;Girona;Osor;17116
+17;Girona;Palafrugell;17117
+17;Girona;Palamós;17118
+17;Girona;Palau de Santa Eulàlia;17119
+17;Girona;Palau-sator;17121
+17;Girona;Palau-saverdera;17120
+17;Girona;Palmerola;17122
+17;Girona;Palol de Revardit;17123
+17;Girona;Pals;17124
+17;Girona;Pardines;17125
+17;Girona;Parlavà;17126
+17;Girona;Pau;17128
+17;Girona;Pedret i Marza;17129
+17;Girona;Peralada;17132
+17;Girona;Planoles;17134
+17;Girona;Pont de Molins;17135
+17;Girona;Pontós;17136
+17;Girona;Porqueres;17137
+17;Girona;Portbou;17138
+17;Girona;Puigcerdà;17141
+17;Girona;Quart;17142
+17;Girona;Queralbs;17043
+17;Girona;Rabós;17143
+17;Girona;Regencós;17144
+17;Girona;Ribes de Freser;17145
+17;Girona;Riells i Viabrea;17146
+17;Girona;Ripoll;17147
+17;Girona;Riudarenes;17148
+17;Girona;Riudaura;17149
+17;Girona;Riudellots de la Selva;17150
+17;Girona;Riumors;17151
+17;Girona;Roses;17152
+17;Girona;Rupià;17153
+17;Girona;Sales de Llierca;17154
+17;Girona;Salt;17155
+17;Girona;Sant Andreu Salou;17157
+17;Girona;Sant Aniol de Finestres;17183
+17;Girona;Sant Climent Sescebes;17158
+17;Girona;Sant Feliu de Buixalleu;17159
+17;Girona;Sant Feliu de Guixols;17160
+17;Girona;Sant Feliu de Pallerols;17161
+17;Girona;Sant Ferriol;17162
+17;Girona;Sant Gregori;17163
+17;Girona;Sant Hilari Sacalm;17164
+17;Girona;Sant Jaume de Llierca;17165
+17;Girona;Sant Joan de les Abadesses;17167
+17;Girona;Sant Joan de Mollet;17168
+17;Girona;Sant Joan les Fonts;17185
+17;Girona;Sant Jordi Desvalls;17166
+17;Girona;Sant Julià de Ramis;17169
+17;Girona;Sant Julià del Llor i Bonmatí;17903
+17;Girona;Sant Llorenç de la Muga;17171
+17;Girona;Sant Martí de Llémena;17172
+17;Girona;Sant Martí Vell;17173
+17;Girona;Sant Miquel de Campmajor;17174
+17;Girona;Sant Miquel de Fluvia;17175
+17;Girona;Sant Mori;17176
+17;Girona;Sant Pau de Seguries;17177
+17;Girona;Sant Pere Pescador;17178
+17;Girona;Santa Coloma de Farners;17180
+17;Girona;Santa Cristina d'Aro;17181
+17;Girona;Santa Llogaia d'Àlguema;17182
+17;Girona;Santa Pau;17184
+17;Girona;Sarrià de Ter;17186
+17;Girona;Saus;17187
+17;Girona;Serinyà;17190
+17;Girona;Serra de Daró;17191
+17;Girona;Setcases;17192
+17;Girona;Sils;17193
+17;Girona;Siurana;17052
+17;Girona;Susqueda;17194
+17;Girona;Terrades;17196
+17;Girona;Torrent;17197
+17;Girona;Torroella de Fluvià;17198
+17;Girona;Torroella de Montgrí;17199
+17;Girona;Tortellà;17200
+17;Girona;Toses;17201
+17;Girona;Tossa de Mar;17202
+17;Girona;Ullà;17204
+17;Girona;Ullastret;17205
+17;Girona;Ultramort;17203
+17;Girona;Urús;17206
+17;Girona;Vallfogona de Ripollès;17170
+17;Girona;Vall-llobrega;17209
+17;Girona;Ventalló;17210
+17;Girona;Verges;17211
+17;Girona;Vidrà;17212
+17;Girona;Vidreres;17213
+17;Girona;Vilabertran;17214
+17;Girona;Vilablareix;17215
+17;Girona;Viladamat;17217
+17;Girona;Viladasens;17216
+17;Girona;Vilademuls;17218
+17;Girona;Viladrau;17220
+17;Girona;Vilafant;17221
+17;Girona;Vilajuïga;17223
+17;Girona;Vilallonga de Ter;17224
+17;Girona;Vilamacolum;17225
+17;Girona;Vilamalla;17226
+17;Girona;Vilamaniscle;17227
+17;Girona;Vilanant;17228
+17;Girona;Vila-sacra;17230
+17;Girona;Vilaür;17222
+17;Girona;Vilobí d'Onyar;17233
+17;Girona;Vilopriu;17232
+18;Granada;Granada;18087
+19;Guadalajara;Guadalajara;19130
+20;Guipúscoa;Sant Sebastià;20069
+21;Huelva;Huelva;21041
+22;Osca;Osca;22125
+23;Jaen;Jaén;23050
+24;Lleó;Lleó;24089
+25;Lleida;Abella de la Conca;25001
+25;Lleida;Àger;25002
+25;Lleida;Agramunt;25003
+25;Lleida;Aitona;25038
+25;Lleida;Alàs i Cerc;25005
+25;Lleida;Albatàrrec;25007
+25;Lleida;Albesa;25008
+25;Lleida;Alcanó;25010
+25;Lleida;Alcarràs;25011
+25;Lleida;Alcoletge;25012
+25;Lleida;Alfarràs;25013
+25;Lleida;Alfés;25014
+25;Lleida;Algerri;25015
+25;Lleida;Alguaire;25016
+25;Lleida;Alins;25017
+25;Lleida;Almacelles;25019
+25;Lleida;Almatret;25020
+25;Lleida;Almenar;25021
+25;Lleida;Alòs de Balaguer;25022
+25;Lleida;Alpicat;25023
+25;Lleida;Alt Àneu;25024
+25;Lleida;Anglesola;25027
+25;Lleida;Arbeca;25029
+25;Lleida;Arres;25031
+25;Lleida;Arsèguel;25032
+25;Lleida;Artesa de Lleida;25033
+25;Lleida;Artesa de Segre;25034
+25;Lleida;Aspa;25036
+25;Lleida;Baix Pallars;25039
+25;Lleida;Balaguer;25040
+25;Lleida;Barbens;25041
+25;Lleida;Barruera;25043
+25;Lleida;Bassella;25044
+25;Lleida;Bausen;25045
+25;Lleida;Belianes;25046
+25;Lleida;Bellaguarda;25170
+25;Lleida;Bellcaire d'Urgell;25047
+25;Lleida;Bell-lloc d'Urgell;25048
+25;Lleida;Bellmunt d'Urgell;25049
+25;Lleida;Bellpuig;25050
+25;Lleida;Bellver de Cerdanya;25051
+25;Lleida;Bellvís;25052
+25;Lleida;Benavent de Segria;25053
+25;Lleida;Biosca;25055
+25;Lleida;Bossost;25059
+25;Lleida;Bovera;25056
+25;Lleida;Cabanabona;25060
+25;Lleida;Cabó;25061
+25;Lleida;Camarasa;25062
+25;Lleida;Canejan;25063
+25;Lleida;Castell de Mur;25904
+25;Lleida;Castellar de la Ribera;25064
+25;Lleida;Castelldans;25067
+25;Lleida;Castellnou de Seana;25068
+25;Lleida;Castelló de Farfanya;25069
+25;Lleida;Castellserà;25070
+25;Lleida;Cava;25071
+25;Lleida;Cervera;25072
+25;Lleida;Cervià de les Garrigues;25073
+25;Lleida;Ciutadilla;25074
+25;Lleida;Clariana de Cardener;25075
+25;Lleida;Coll de Nargó;25077
+25;Lleida;Conca de Dalt;25161
+25;Lleida;Corbins;25078
+25;Lleida;Cubells;25079
+25;Lleida;El Cogul;25076
+25;Lleida;El Palau d'Anglesola;25158
+25;Lleida;El Poal;25168
+25;Lleida;El Pont de Suert;25173
+25;Lleida;El Soleràs;25206
+25;Lleida;El Vilosell;25253
+25;Lleida;Els Alamús;25004
+25;Lleida;Els Omellons;25153
+25;Lleida;Els Omells de Na Gaia;25154
+25;Lleida;Els Torms;25224
+25;Lleida;Espot;25082
+25;Lleida;Estamariu;25088
+25;Lleida;Estaràs;25085
+25;Lleida;Esterri d'Àneu;25086
+25;Lleida;Esterri de Cardós;25087
+25;Lleida;Farrera;25089
+25;Lleida;Fígols i Alinyà;25908
+25;Lleida;Fondarella;25093
+25;Lleida;Foradada;25094
+25;Lleida;Fulleda;25097
+25;Lleida;Gavet de la Conca;25098
+25;Lleida;Gimenells i el Pla de la Font;25912
+25;Lleida;Golmés;25099
+25;Lleida;Gósol;25100
+25;Lleida;Granyanella;25103
+25;Lleida;Granyena de les Garrigues;25105
+25;Lleida;Granyena de Segarra;25104
+25;Lleida;Guimerà;25109
+25;Lleida;Guissona;25110
+25;Lleida;Guixers;25111
+25;Lleida;Isona i Conca Dellà;25115
+25;Lleida;Ivars de Noguera;25112
+25;Lleida;Ivars d'Urgell;25113
+25;Lleida;Ivorra;25114
+25;Lleida;Josa i Tuixen;25910
+25;Lleida;Juncosa;25118
+25;Lleida;Juneda;25119
+25;Lleida;La Baronia de Rialb;25042
+25;Lleida;La Coma i la Pedra;25163
+25;Lleida;La Floresta;25092
+25;Lleida;La Fuliola;25096
+25;Lleida;La Granadella;25101
+25;Lleida;La Granja d'Escarp;25102
+25;Lleida;La Guingueta d'Àneu;25903
+25;Lleida;La Molsosa;25136
+25;Lleida;La Pobla de Cérvoles;25169
+25;Lleida;La Pobla de Segur;25171
+25;Lleida;La Portella;25174
+25;Lleida;La Sentiu de Sió;25035
+25;Lleida;La Seu d'Urgell;25203
+25;Lleida;La Torre de Cabdella;25227
+25;Lleida;La Vansa i Fórnols;25909
+25;Lleida;L'Albagés;25006
+25;Lleida;L'Albi;25009
+25;Lleida;Les;25121
+25;Lleida;Les Avellanes i Santa Linya;25037
+25;Lleida;Les Bòrdes;25057
+25;Lleida;Les Borges Blanques;25058
+25;Lleida;Les Olugues;25152
+25;Lleida;Les Valls d'Aguilar;25906
+25;Lleida;Les Valls de Valira;25239
+25;Lleida;L'Espluga Calba;25081
+25;Lleida;Linyola;25122
+25;Lleida;Lladorre;25123
+25;Lleida;Lladurs;25124
+25;Lleida;Llardecans;25125
+25;Lleida;Llavorsí;25126
+25;Lleida;Lleida;25120
+25;Lleida;Lles de Cerdanya;25127
+25;Lleida;Llimiana;25128
+25;Lleida;Llobera;25129
+25;Lleida;Maials;25133
+25;Lleida;Maldà;25130
+25;Lleida;Massalcoreig;25131
+25;Lleida;Massoteres;25132
+25;Lleida;Menàrguens;25134
+25;Lleida;Miralcamp;25135
+25;Lleida;Mollerussa;25137
+25;Lleida;Montellà i Martinet;25139
+25;Lleida;Montferrer i Castellbò;25140
+25;Lleida;Montgai;25138
+25;Lleida;Montoliu de Lleida;25142
+25;Lleida;Montoliu de Segarra;25141
+25;Lleida;Montornès de Segarra;25143
+25;Lleida;Nalec;25145
+25;Lleida;Naut Aran;25025
+25;Lleida;Navès;25146
+25;Lleida;Odèn;25148
+25;Lleida;Oliana;25149
+25;Lleida;Oliola;25150
+25;Lleida;Olius;25151
+25;Lleida;Organyà;25155
+25;Lleida;Os de Balaguer;25156
+25;Lleida;Ossó de Sió;25157
+25;Lleida;Penelles;25164
+25;Lleida;Peramola;25165
+25;Lleida;Pinell de Solsonès;25166
+25;Lleida;Pinós;25167
+25;Lleida;Plans de Sió;25911
+25;Lleida;Pont de Bar;25030
+25;Lleida;Ponts;25172
+25;Lleida;Prats i Sansor;25175
+25;Lleida;Preixana;25176
+25;Lleida;Preixens;25177
+25;Lleida;Prullans;25179
+25;Lleida;Puiggrós;25180
+25;Lleida;Puigverd d'Agramunt;25181
+25;Lleida;Puigverd de Lleida;25182
+25;Lleida;Rialp;25183
+25;Lleida;Ribera d'Ondara;25905
+25;Lleida;Ribera d'Urgellet;25185
+25;Lleida;Riner;25186
+25;Lleida;Rosselló;25189
+25;Lleida;Salàs de Pallars;25190
+25;Lleida;Sanaüja;25191
+25;Lleida;Sant Esteve de la Sarga;25196
+25;Lleida;Sant Guim de Freixenet;25192
+25;Lleida;Sant Guim de la Plana;25197
+25;Lleida;Sant Llorenc de Morunys;25193
+25;Lleida;Sant Martí de Riucorb;25902
+25;Lleida;Sant Ramon;25194
+25;Lleida;Sarroca de Bellera;25201
+25;Lleida;Sarroca de Lleida;25200
+25;Lleida;Senterada;25202
+25;Lleida;Seròs;25204
+25;Lleida;Sidamon;25205
+25;Lleida;Solsona;25207
+25;Lleida;Soriguera;25208
+25;Lleida;Sort;25209
+25;Lleida;Soses;25210
+25;Lleida;Sunadell;25211
+25;Lleida;Sunyer;25212
+25;Lleida;Talarn;25215
+25;Lleida;Talavera;25216
+25;Lleida;Tàrrega;25217
+25;Lleida;Tarrés;25218
+25;Lleida;Tarroja de Segarra;25219
+25;Lleida;Tèrmens;25220
+25;Lleida;Tìrvia;25221
+25;Lleida;Tiurana;25222
+25;Lleida;Torà;25223
+25;Lleida;Tornabous;25225
+25;Lleida;Torrebesses;25226
+25;Lleida;Torrefarrera;25228
+25;Lleida;Torrefeta i Florejacs;25907
+25;Lleida;Torregrossa;25230
+25;Lleida;Torrelameu;25231
+25;Lleida;Torres de Segre;25232
+25;Lleida;Torre-serona;25233
+25;Lleida;Tremp;25234
+25;Lleida;Vall de Cardós;25901
+25;Lleida;Vallbona de les Monges;25238
+25;Lleida;Vallfogona de Balaguer;25240
+25;Lleida;Verdú;25242
+25;Lleida;Vielha e Mijaran;25243
+25;Lleida;Vilagrassa;25244
+25;Lleida;Vilaller;25245
+25;Lleida;Vilamòs;25247
+25;Lleida;Vilanova de Bellpuig;25248
+25;Lleida;Vilanova de la Barca;25254
+25;Lleida;Vilanova de l'Aguda;25249
+25;Lleida;Vilanova de Meià;25250
+25;Lleida;Vilanova de Segrià;25251
+25;Lleida;Vila-sana;25252
+25;Lleida;Vinaixa;25255
+26;La Rioja;Logronyo;26089
+27;Lugo;Lugo;27028
+28;Madrid;Madrid;28079
+29;Màlaga;Màlaga;29067
+30;Múrcia;Múrcia;30030
+31;Navarra;Pamplona;31201
+32;Orense;Orense;32054
+33;Astúries;Oviedo;33044
+34;Palència;Palència;34120
+35;Las Palmas;Palmas de Gran Canària, Las;35016
+36;Pontevedra;Pontevedra;36038
+37;Salamanca;Salamanca;37274
+38;S.Cruz Tenerife;Santa Cruz de Tenerife;38038
+39;Cantàbria;Santander;39075
+40;Segòvia;Segòvia;40194
+41;Sevilla;Sevilla;41091
+42;Sòria;Sòria;42173
+43;Tarragona;Aiguamúrcia;43001
+43;Tarragona;Albinyana;43002
+43;Tarragona;Alcanar;43004
+43;Tarragona;Alcover;43005
+43;Tarragona;Aldover;43006
+43;Tarragona;Alfara de Carles;43008
+43;Tarragona;Alforja;43009
+43;Tarragona;Alió;43010
+43;Tarragona;Almoster;43011
+43;Tarragona;Altafulla;43012
+43;Tarragona;Amposta;43014
+43;Tarragona;Arbolí;43015
+43;Tarragona;Arnes;43018
+43;Tarragona;Ascó;43019
+43;Tarragona;Banyeres del Penedès;43020
+43;Tarragona;Barberà de la Conca;43021
+43;Tarragona;Batea;43022
+43;Tarragona;Bellmunt del Priorat;43023
+43;Tarragona;Bellvei;43024
+43;Tarragona;Benifallet;43025
+43;Tarragona;Benissanet;43026
+43;Tarragona;Blancafort;43029
+43;Tarragona;Bonastre;43030
+43;Tarragona;Bot;43032
+43;Tarragona;Botarell;43033
+43;Tarragona;Bràfim;43034
+43;Tarragona;Cabassers;43035
+43;Tarragona;Cabra del Camp;43036
+43;Tarragona;Calafell;43037
+43;Tarragona;Camarles;43903
+43;Tarragona;Cambrils;43038
+43;Tarragona;Capafonts;43039
+43;Tarragona;Capçanes;43040
+43;Tarragona;Caseres;43041
+43;Tarragona;Castellvell del Camp;43042
+43;Tarragona;Colldejou;43045
+43;Tarragona;Conesa;43046
+43;Tarragona;Constantí;43047
+43;Tarragona;Corbera d'Ebre;43048
+43;Tarragona;Cornudella de Montsant;43049
+43;Tarragona;Creixell;43050
+43;Tarragona;Cunit;43051
+43;Tarragona;Deltebre;43901
+43;Tarragona;Duesaigües;43053
+43;Tarragona;El Catllar;43043
+43;Tarragona;El Masroig;43082
+43;Tarragona;El Milà;43083
+43;Tarragona;El Molar;43085
+43;Tarragona;El Morell;43095
+43;Tarragona;El Perelló;43104
+43;Tarragona;El Pinell de Brai;43106
+43;Tarragona;El Pla de Santa Maria;43108
+43;Tarragona;El Pont d'Armentera;43113
+43;Tarragona;El Rourell;43134
+43;Tarragona;El Vendrell;43163
+43;Tarragona;Els Garidells;43066
+43;Tarragona;Els Guiamets;43070
+43;Tarragona;Els Pallaresos;43100
+43;Tarragona;Falset;43055
+43;Tarragona;Figuerola del camp;43059
+43;Tarragona;Flix;43060
+43;Tarragona;Forès;43061
+43;Tarragona;Freginals;43062
+43;Tarragona;Gandesa;43064
+43;Tarragona;Garcia;43065
+43;Tarragona;Ginestar;43067
+43;Tarragona;Godall;43068
+43;Tarragona;Gratallops;43069
+43;Tarragona;Horta de Sant Joan;43071
+43;Tarragona;La Bisbal de Falset;43027
+43;Tarragona;La Bisbal del Penedès;43028
+43;Tarragona;La Fatarella;43056
+43;Tarragona;La Febró;43057
+43;Tarragona;La Figuera;43058
+43;Tarragona;La Galera;43063
+43;Tarragona;La Masó;43080
+43;Tarragona;La Morera de Montsant;43096
+43;Tarragona;La Nou de Gaià;43097
+43;Tarragona;La Palma d'Ebre;43099
+43;Tarragona;La Pobla de Mafumet;43109
+43;Tarragona;La Pobla de Massaluca;43110
+43;Tarragona;La Pobla de Montornès;43111
+43;Tarragona;La Riba;43124
+43;Tarragona;La Riera de Gaià;43126
+43;Tarragona;La Secuita;43144
+43;Tarragona;La Selva del Camp;43145
+43;Tarragona;La Sènia;43044
+43;Tarragona;La Torre de Fontaubella;43151
+43;Tarragona;La Torre de l'Espanyol;43152
+43;Tarragona;La Vilella Alta;43173
+43;Tarragona;La vilella Baixa;43174
+43;Tarragona;L'Albiol;43003
+43;Tarragona;L'Aldea;43904
+43;Tarragona;L'Aleixar;43007
+43;Tarragona;L'Ametlla de Mar;43013
+43;Tarragona;L'Ampolla;43906
+43;Tarragona;L'Arboç;43016
+43;Tarragona;L'Argentera;43017
+43;Tarragona;Les Borges del Camp;43031
+43;Tarragona;Les Piles;43105
+43;Tarragona;L'Espluga de Francolí;43054
+43;Tarragona;Lloar, El;43072
+43;Tarragona;Llorac;43073
+43;Tarragona;Llorenç del Penedès;43074
+43;Tarragona;Marçà;43076
+43;Tarragona;Margalef;43075
+43;Tarragona;Mas de Barberans;43077
+43;Tarragona;Masdenverge;43078
+43;Tarragona;Masllorenç;43079
+43;Tarragona;Maspujols;43081
+43;Tarragona;Miravet;43084
+43;Tarragona;Montblanc;43086
+43;Tarragona;Montbrió del Camp;43088
+43;Tarragona;Montferri;43089
+43;Tarragona;Montmell, El;43090
+43;Tarragona;Mont-ral;43091
+43;Tarragona;Mont-roig del camp;43092
+43;Tarragona;Móra d'Ebre;43093
+43;Tarragona;Móra la Nova;43094
+43;Tarragona;Nulles;43098
+43;Tarragona;Passanant;43101
+43;Tarragona;Paüls;43102
+43;Tarragona;Perafort;43103
+43;Tarragona;Pira;43107
+43;Tarragona;Poboleda;43112
+43;Tarragona;Pontils;43141
+43;Tarragona;Porrera;43114
+43;Tarragona;Pradell de la Teixeta;43115
+43;Tarragona;Prades;43116
+43;Tarragona;Prat de Comte;43117
+43;Tarragona;Pratdip;43118
+43;Tarragona;Puigpelat;43119
+43;Tarragona;Querol;43120
+43;Tarragona;Rasquera;43121
+43;Tarragona;Renau;43122
+43;Tarragona;Reus;43123
+43;Tarragona;Riba-Roja d'Ebre;43125
+43;Tarragona;Riudecanyes;43127
+43;Tarragona;Riudecols;43128
+43;Tarragona;Riudoms;43129
+43;Tarragona;Rocafort de Queralt;43130
+43;Tarragona;Roda de Barà;43131
+43;Tarragona;Rodonyà;43132
+43;Tarragona;Roquetes;43133
+43;Tarragona;Salomó;43135
+43;Tarragona;Salou;43905
+43;Tarragona;Sant Carles de la Ràpita;43136
+43;Tarragona;Sant Jaume dels Domenys;43137
+43;Tarragona;Sant Jaume d'Enveja;43902
+43;Tarragona;Santa Bàrbara;43138
+43;Tarragona;Santa Coloma de Queralt;43139
+43;Tarragona;Santa Oliva;43140
+43;Tarragona;Sarral;43142
+43;Tarragona;Savallà del Comtat;43143
+43;Tarragona;Senan;43146
+43;Tarragona;Solivella;43147
+43;Tarragona;Tarragona;43148
+43;Tarragona;Tivenys;43149
+43;Tarragona;Tivissa;43150
+43;Tarragona;Torredembarra;43153
+43;Tarragona;Torroja del Priorat;43154
+43;Tarragona;Tortosa;43155
+43;Tarragona;Ulldecona;43156
+43;Tarragona;Ulldemolins;43157
+43;Tarragona;Vallclara;43158
+43;Tarragona;Vallfogona de Riucorb;43159
+43;Tarragona;Vallmoll;43160
+43;Tarragona;Valls;43161
+43;Tarragona;Vandellós i l'Hospitalet de l'Infan;43162
+43;Tarragona;Vespella;43164
+43;Tarragona;Vilabella;43165
+43;Tarragona;Vilalba dels Arcs;43175
+43;Tarragona;Vilallonga del Camp;43166
+43;Tarragona;Vilanova de Prades;43168
+43;Tarragona;Vilanova d'Escornalbou;43167
+43;Tarragona;Vilaplana;43169
+43;Tarragona;Vila-rodona;43170
+43;Tarragona;Vila-seca;43171
+43;Tarragona;Vilaverd;43172
+43;Tarragona;Vimbodí;43176
+43;Tarragona;Vinebre;43177
+43;Tarragona;Vinyols i Arcs;43178
+43;Tarragona;Xerta;43052
+44;Terol;Terol;44216
+45;Toledo;Toledo;45168
+46;València;València;46250
+47;Valladolid;Valladolid;47186
+48;Biscaia;Bilbao;48020
+49;Zamora;Zamora;49275
+50;Saragossa;Saragossa;50297
+51;Ceuta;Ceuta;51001
+52;Melilla;Melilla;52001

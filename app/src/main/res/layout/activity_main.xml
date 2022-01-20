@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/DarkSlateGray"
+        android:orientation="vertical"
+        tools:context=".MainActivity">
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            style="@style/ProvinciaStyle"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="24dp"
+            android:layout_marginEnd="24dp"
+            android:layout_weight="2"
+            android:background="@drawable/fons_item"
+            android:orientation="horizontal"
+            app:layout_constraintBottom_toTopOf="@+id/guidelineHoritzontal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            style="@style/MunicipiStyle"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="24dp"
+            android:layout_marginBottom="24dp"
+            android:background="@drawable/fons_item"
+            android:orientation="horizontal"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/guidelineHoritzontal">
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvNomProvincia"
+            style="@style/ProvinciaStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:layout_weight="8"
+            tools:text="Girona"
+            app:layout_constraintBottom_toBottomOf="@+id/linearLayout"
+            app:layout_constraintEnd_toStartOf="@+id/guidelineVerticalEsquerra"
+            app:layout_constraintStart_toStartOf="@+id/guidelineVerticalDreta"
+            app:layout_constraintTop_toTopOf="@+id/linearLayout" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/ivProvinciaAnt"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:src="@drawable/anterior"
+        app:layout_constraintBottom_toBottomOf="@+id/linearLayout"
+        app:layout_constraintEnd_toStartOf="@+id/guidelineVerticalDreta"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout"
+        app:layout_constraintTop_toTopOf="@+id/linearLayout" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/ivProvinciaSeg"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:src="@drawable/seguent"
+        app:layout_constraintBottom_toTopOf="@+id/guidelineHoritzontal"
+        app:layout_constraintEnd_toEndOf="@+id/linearLayout"
+        app:layout_constraintStart_toStartOf="@+id/guidelineVerticalEsquerra"
+        app:layout_constraintTop_toTopOf="@+id/linearLayout" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/ivMunicipiSeg"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+
+        android:layout_marginEnd="8dp"
+        android:src="@drawable/seguent"
+        app:layout_constraintBottom_toBottomOf="@+id/linearLayout2"
+        app:layout_constraintEnd_toEndOf="@+id/linearLayout2"
+        app:layout_constraintStart_toStartOf="@+id/guidelineVerticalEsquerra"
+        app:layout_constraintTop_toTopOf="@+id/linearLayout2" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/ivMunicipiAnt"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:src="@drawable/anterior"
+        app:layout_constraintBottom_toBottomOf="@+id/linearLayout2"
+        app:layout_constraintEnd_toStartOf="@+id/guidelineVerticalDreta"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout2"
+        app:layout_constraintTop_toTopOf="@+id/linearLayout2" />
+
+        <TextView
+            android:id="@+id/tvNomMunicipi"
+            style="@style/MunicipiStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="8dp"
+            app:layout_constraintBottom_toTopOf="@+id/tvCodiMunicipi"
+            app:layout_constraintEnd_toStartOf="@+id/guidelineVerticalEsquerra"
+            app:layout_constraintStart_toStartOf="@+id/guidelineVerticalDreta"
+            app:layout_constraintTop_toTopOf="@+id/linearLayout2"
+            tools:text="Samarruga de la Punta" />
+
+        <TextView
+            android:id="@+id/tvCodiMunicipi"
+            style="@style/MunicipiStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="8dp"
+            android:textSize="20sp"
+            app:layout_constraintBottom_toTopOf="@+id/ivBandera"
+            app:layout_constraintEnd_toStartOf="@+id/guidelineVerticalEsquerra"
+            app:layout_constraintStart_toStartOf="@+id/guidelineVerticalDreta"
+            app:layout_constraintTop_toBottomOf="@+id/tvNomMunicipi"
+            tools:text="17080" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/ivBandera"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="8dp"
+            app:layout_constraintBottom_toTopOf="@+id/ivEscut"
+            app:layout_constraintEnd_toStartOf="@+id/guidelineVerticalEsquerra"
+            app:layout_constraintStart_toStartOf="@+id/guidelineVerticalDreta"
+            app:layout_constraintTop_toBottomOf="@+id/tvCodiMunicipi"
+            tools:imageResource=""
+            tools:src="@drawable/bn08014" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/ivEscut"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="16dp"
+            android:scaleType="centerInside"
+            app:layout_constraintBottom_toBottomOf="@+id/linearLayout2"
+            app:layout_constraintEnd_toStartOf="@+id/guidelineVerticalEsquerra"
+            app:layout_constraintStart_toStartOf="@+id/guidelineVerticalDreta"
+            app:layout_constraintTop_toBottomOf="@+id/ivBandera"
+            tools:imageResource=""
+            tools:src="@drawable/ec08018" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guidelineVerticalEsquerra"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_percent="0.8" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guidelineVerticalDreta"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_percent="0.19" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guidelineHoritzontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintGuide_percent="0.33" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
